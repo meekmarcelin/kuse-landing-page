@@ -16,6 +16,13 @@ Template taken from GitHub user [bdavidxyz](https://github.com/bdavidxyz/simples
 6. Replace content of index.html with your own content.
 7. Now you are ready to promote your business. You can deploy the page at [GitHub Pages](https://pages.github.com/), or any other plaform you'd like to.
 
-## Installation, expert mode
+## Github Pages Hosting Instructions
 
-Go to the "docs" branch of this repository and follow instructions.
+cd C:\Users\Ariel\Google Drive\Personal\Programming\
+git clone https://github.com/aserravalle/aserravalle.github.io
+cd aserravalle.github.io
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+
+https://aserravalle.github.io
